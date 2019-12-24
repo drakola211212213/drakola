@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drakola211212213/drakola/static/css/main.eb1f196f.chunk.css",
+    "main.js": "/drakola211212213/drakola/static/js/main.3e0c7181.chunk.js",
+    "main.js.map": "/drakola211212213/drakola/static/js/main.3e0c7181.chunk.js.map",
+    "runtime-main.js": "/drakola211212213/drakola/static/js/runtime-main.0be8d54d.js",
+    "runtime-main.js.map": "/drakola211212213/drakola/static/js/runtime-main.0be8d54d.js.map",
+    "static/js/2.0894c7bb.chunk.js": "/drakola211212213/drakola/static/js/2.0894c7bb.chunk.js",
+    "static/js/2.0894c7bb.chunk.js.map": "/drakola211212213/drakola/static/js/2.0894c7bb.chunk.js.map",
+    "index.html": "/drakola211212213/drakola/index.html",
+    "precache-manifest.f3949c64777406c68602051f6a47c2f0.js": "/drakola211212213/drakola/precache-manifest.f3949c64777406c68602051f6a47c2f0.js",
+    "service-worker.js": "/drakola211212213/drakola/service-worker.js",
+    "static/css/main.eb1f196f.chunk.css.map": "/drakola211212213/drakola/static/css/main.eb1f196f.chunk.css.map",
+    "static/js/2.0894c7bb.chunk.js.LICENSE": "/drakola211212213/drakola/static/js/2.0894c7bb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be8d54d.js",
+    "static/js/2.0894c7bb.chunk.js",
+    "static/css/main.eb1f196f.chunk.css",
+    "static/js/main.3e0c7181.chunk.js"
+  ]
+}
